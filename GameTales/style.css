@@ -26,6 +26,13 @@
     height: 100%;
     margin-bottom: 10px;
   }
+
+  .centerd {
+    position: absolute;
+    top: 55%;
+    left: 58%;
+    transform: translate(-50%, -50%);;
+  }
   
   .navbar-ps {
     background-color: #003087;
